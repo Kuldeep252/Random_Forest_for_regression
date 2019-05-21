@@ -1,5 +1,5 @@
 # Random_Forest_for_regression
-This project demonstrates the use of popular random forest algorithm for regression. It is reproded as published by [Will Koehrsen](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0) and is a good example to understannd scikit learn random forest regressor. Please click [here] to access the jupyter notebook.
+This project demonstrates the use of popular random forest algorithm for regression. It is reproded as published by [Will Koehrsen](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0) and is a good example to understannd scikit learn random forest regressor. Please click [here](https://github.com/Kuldeep252/Random_Forest_for_regression/blob/master/Random%20Forest%20Explained.ipynb) to access the jupyter notebook.
 
 ## Dependencies
 Numpy
